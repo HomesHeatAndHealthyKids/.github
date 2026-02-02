@@ -1,2 +1,3 @@
-# .github
-In Scotland, at least 1 in 5 households struggle to heat their homes. Our project aims to determine how many preschool respiratory infections could be prevented by tackling underheating.
+# Homes, Heat and Healthy Kids
+Respiratory infections are the main reason for hospital admission in preschool children and are associated with cold, damp housing. Childhood respiratory infections have lifelong consequences, increasing the risk of asthma and premature adult death. In Scotland, at least 1 in 5 households struggle to heat their homes. We do not yet know how many preschool respiratory infections could be prevented by tackling underheating.
+The Scottish Government are carrying out measures such as installing insulation or replacing a boiler to try to make homes easier to heat. However, as well as keeping warm air in, some measures also trap in mould, smoke and air pollution, potentially increasing the risk of respiratory infections.
